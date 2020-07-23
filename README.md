@@ -1,10 +1,11 @@
-# robloxapi
+# robloxapi Stable fork for rynpix roblox rank bot https://github.com/rynpix/Roblox-rank-Bot
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 [![Largest Roblox API Discord](https://img.shields.io/discord/332692436478590986.svg?style=popout)](https://discord.gg/ZVcBRbV)
 [![Downloads](http://pepy.tech/badge/robloxapi)](http://pepy.tech/project/robloxapi)
 
 A python module for interacting with the roblox api
+
 
 If you would like to contribute, please open a pull request with your ideas. 
 Or if you have any issues open an issue and I will try response as soon as possible.
